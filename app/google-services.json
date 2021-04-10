@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244352742301",
+    "project_id": "phoneauthfirebase-5cfe4",
+    "storage_bucket": "phoneauthfirebase-5cfe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244352742301:android:a7f96cf06cada1d98e7574",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244352742301-diok75sl4b8vd502lve67aleg370e637.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4Uy9J8zKjYFjZ-dmW1UjMkKNwchUKkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244352742301-diok75sl4b8vd502lve67aleg370e637.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
